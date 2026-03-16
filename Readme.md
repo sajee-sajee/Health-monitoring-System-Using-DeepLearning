@@ -188,7 +188,7 @@ Health_monitoring_dataset_analysis.ipynb
 
 ## 👨‍💻 Author
 
-**Sajeesh K (Sajeev)**  
+**Sajeesh K**  
 B.Tech Computer Science – AI & ML  
 Lovely Professional University
 
